@@ -47,3 +47,4 @@ Note
 
 * [**WhatToMine - Crypto coins mining profit calculator compared to Ethereum**](https://whattomine.com/)
 * [**Cryptocurrency Prices, Charts And Market Capitalizations | CoinMarketCap**](https://coinmarketcap.com/)
+* [Reddit - Mining](https://www.reddit.com/r/mining/)

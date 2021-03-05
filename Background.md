@@ -14,6 +14,22 @@
 
 * [Decentralized finance - Wikipedia](https://en.wikipedia.org/wiki/Decentralized_finance)
 
+## Wallet
+
+* [Cryptocurrency wallet - Wikipedia](https://en.wikipedia.org/wiki/Cryptocurrency_wallet)
+
+Types
+
+* Hardware wallets
+* Desktop wallets
+* Mobile wallets
+* Web wallets
+* Paper wallets
+
+## Mining Speed Measure
+
+mh/s stands for "Mega hash per second"
+
 ## Other
 
 * [How can I get caught if I start mining cryptocurrency (Bitcoin or Ethereum, etc.) on my work computer? Everybody is used to my PC always being on. - Quora](https://www.quora.com/How-can-I-get-caught-if-I-start-mining-cryptocurrency-Bitcoin-or-Ethereum-etc-on-my-work-computer-Everybody-is-used-to-my-PC-always-being-on)

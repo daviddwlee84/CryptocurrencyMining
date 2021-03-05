@@ -45,6 +45,11 @@
 .\mine_ethereum-ethermine_lolMiner.ps1
 ```
 
+## Binance
+
+* [Binance Ethereum Mining Tutorial | Binance Support](https://www.binance.com/en/support/faq/9bd21a9536d74d1fb65c83f8e60ded93)
+* [Binance Pool ETH Mining FAQ | Binance Support](https://www.binance.com/zh-TW/support/faq/9189cc6e06f34ef2812d8eb54a03a302)
+
 ---
 
 ## Run lolMiner on GeForce GTX 1080

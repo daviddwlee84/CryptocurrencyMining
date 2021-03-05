@@ -33,7 +33,7 @@ Mining Algorithm
 
 * Ethash
 
-### Ethereum Mining Pool
+## Ethereum Classic (ETC)
 
 ## Monero (XMR)
 

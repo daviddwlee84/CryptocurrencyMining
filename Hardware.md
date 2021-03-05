@@ -1,4 +1,4 @@
-# Hardware
+# Hardware Setup
 
 * [Non-specialized hardware comparison - Bitcoin Wiki](https://en.bitcoin.it/wiki/Non-specialized_hardware_comparison)
 
@@ -21,3 +21,44 @@
 > * [Amazon.com: ASIC Miner Block Erupter USB Bitcoin 333 MH/s BTC: Computers & Accessories](https://www.amazon.com/ASIC-Miner-Block-Erupter-Bitcoin/dp/B00XNI1CL2/ref=sr_1_9?dchild=1&keywords=usb+bitcoin+miner&qid=1614925537&sr=8-9)
 > * [Amazon.com: GekkoScience NewPac 130Gh/s+ USB Bitcoin / SHA256 Stick Miner Most Efficient, Powerful USB Miner on Market: Computers & Accessories](https://www.amazon.com/GekkoScience-NewPac-Efficient-Powerful-Multi-Pool/dp/B07MNQGZW8)
 > * [5 Best USB Bitcoin Miners 2021 – Reviews & Buying Guide](https://www.bitcongress.org/bitcoin/mining/best-usb-bitcoin-miners/)
+
+## GPU Mining Rig
+
+1. Mining Frame (Optional)
+2. ... (TODO)
+
+---
+
+## Measure Power Consumption
+
+* [Power Supply Calculator - PSU Calculator | OuterVision](https://outervision.com/power-supply-calculator)
+
+### Monitor Software
+
+> * [Is there a software that can monitor the power consumption of a computer? - Quora](https://www.quora.com/Is-there-a-software-that-can-monitor-the-power-consumption-of-a-computer)
+> * [How to Measure Your PC's Power Consumption - Make Tech Easier](https://www.maketecheasier.com/measure-pc-power-consumption/)
+
+* [Open Hardware Monitor - Core temp, fan speed and voltages in a free software gadget](https://openhardwaremonitor.org/)
+  * [openhardwaremonitor/openhardwaremonitor: Open Hardware Monitor](https://github.com/openhardwaremonitor/openhardwaremonitor)
+
+### Power Meter
+
+## Memory Usage
+
+```sh
+nvidia-smi
+```
+
+* Windows issue
+  * [machine learning - nvidia-smi does not display memory usage - Stack Overflow](https://stackoverflow.com/questions/44227767/nvidia-smi-does-not-display-memory-usage/44228331)
+    * WDDM vs. TCC mode
+
+## Special Operating System
+
+### HiveOS
+
+* [The Ultimate Mining Platform | Hive OS](https://hiveos.farm/)
+
+### NiceHash OS
+
+* [NHOS | NiceHash](https://www.nicehash.com/nhos-mining)

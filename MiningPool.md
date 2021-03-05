@@ -1,10 +1,12 @@
 # Mining Pool
 
-| Mining Pool | Support Coin Type | Minimum Payout Threshold | Remark      |
-| ----------- | ----------------- | ------------------------ | ----------- |
-| Ethermine   | Ethereum          | 0.05 ETH                 |             |
-| Ethpool     | Ethereum          |                          | Solo Mining |
-| F2Pool      | Multiple          |                          |             |
+| Mining Pool  | Support Coin Type | Minimum Payout Threshold | Remark      |
+| ------------ | ----------------- | ------------------------ | ----------- |
+| Ethermine    | ETH               | 0.05 ETH                 |             |
+| Ethpool      | ETH               |                          | Solo Mining |
+| F2Pool       | Multiple          |                          |             |
+| Hiveon Pool  | ETH, ETC          |                          |             |
+| Binance Pool | BTC, ETH          |                          |             |
 
 ## Ethermine
 
@@ -28,3 +30,13 @@ This means ~50% less payout tx in total!
 ## F2Pool
 
 * [F2Pool: Leading Bitcoin, Ethereum & Litecoin Mining Pool](https://www.f2pool.com/)
+
+## Hiveon Pool
+
+> The default pool of Hive OS
+
+* [Hiveon Pool – Most profitable and efficient mining pool](https://hiveon.net/)
+
+## Binance Pool
+
+* [Bitcoin Mining Pool | Bitcoin Mining Contracts | Crypto Mining Pool | Binance](https://pool.binance.com/en)
