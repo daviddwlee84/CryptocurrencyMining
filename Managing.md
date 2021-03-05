@@ -5,7 +5,7 @@
 
 ## Wallets
 
-* [MetaMask](https://metamask.io/)
+* [MetaMask](https://metamask.io/) (using)
 * [Coinomi: The blockchain wallet trusted by millions.](https://www.coinomi.com/en/)
 
 ## Digital Currency Exchange
