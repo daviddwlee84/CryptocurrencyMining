@@ -32,9 +32,18 @@
 
 #### Setup lolMiner on Windows
 
-> TODO
+```powershell
+# Setup
+# (change version if there is new update)
+.\setup_lolminer.ps1
+```
 
-This will face some anti-virus problem
+```powershell
+# Start mining
+# (change pool to be near your area)
+# (change wallet if you don't want to mine for me)
+.\mine_ethereum-ethermine_lolMiner.ps1
+```
 
 ---
 
