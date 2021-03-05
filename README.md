@@ -3,7 +3,10 @@
 ## Prerequisites
 
 > Assume you have already set up a machine
+>
 > (i.e. assemble one with GPU and installed driver (e.g. cuda for Nvidia GPU with specific version with your miner))
+>
+> You will need additional setup for [mining Ethereum on GTX 1080/ti & Titan XP](Other/ETHlargementPill)
 
 General Procedure
 
@@ -35,8 +38,8 @@ Note
   * Bitcoin
   * Ethereum
 * [Managing Digital Currency](Managing.md)
-  * Wallet
-  * Digital Currency Exchange
+  * Wallet - To keep your mined currency
+  * Digital Currency Exchange - To exchange your digital currency to money
 * [Mining Pools](MiningPool.md)
 * [Miner](Miner.md)
 
