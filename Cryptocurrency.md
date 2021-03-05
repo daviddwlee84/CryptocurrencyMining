@@ -1,4 +1,4 @@
-# Cryptocurrency and Mining Pools
+# Cryptocurrency
 
 | Cryptocurrency | Machine            | Remark                        |
 | -------------- | ------------------ | ----------------------------- |
@@ -6,23 +6,34 @@
 | Ethereum (ETH) | GPU with 4G up RAM | For regular PC gamer          |
 | Monero (XMR)   | CPU                | For machine with GPU          |
 
+## Phases of Cryptocurrency
+
+1. Phase 1 — Design, Distribution, Trust Graph Bootstrap
+2. Phase 2 — Testnet
+3. Phase 3 — Mainnet
+
+---
+
 ## Bitcoin (BTC)
 
 * [Bitcoin.com | Buy BTC & BCH | News, prices, mining & wallet](https://www.bitcoin.com/)
 * [bitcoin/bitcoin: Bitcoin Core integration/staging tree](https://github.com/bitcoin/bitcoin)
 
+### Bitcoin Mining Pool
+
+* [Worlds's first Bitcoin mining pool | Slush Pool](https://slushpool.com/home/)
+
 ## Ethereum (ETH)
 
 * [Home | ethereum.org](https://ethereum.org/en/)
 * [How to mine Ethereum - Coin Rivet](https://coinrivet.com/how-to-mine-ethereum/)
+* [Ethereum (ETH) Blockchain Explorer - etherchain.org - 2021](https://etherchain.org/)
 
 Mining Algorithm
 
 * Ethash
 
 ### Ethereum Mining Pool
-
-* [Home - Ethermine - Ethereum (ETH) mining pool](https://ethermine.org/)
 
 ## Monero (XMR)
 
@@ -36,6 +47,16 @@ Mining Algorithm
 ## EOS.IO (EOS)
 
 * [Home – EOSIO Blockchain Software & Services](https://eos.io/)
+
+## Pi Network
+
+* [Pi Network](https://minepi.com/)
+* [Pi幣到底是什麼？價值在哪邊？ | by Leo Wu | Medium](https://a0918860628.medium.com/pi%E5%B9%A3%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E9%BA%BC-%E5%83%B9%E5%80%BC%E5%9C%A8%E5%93%AA%E9%82%8A-a6e7bb72d489)
+
+## BEE Coin (BEE)
+
+* [边玩游戏边赚Bee, 新生活的每一天 | Bee1314.com](https://bee1314.com/sc/index.html)
+* [BEE Coin (BEE) 匯率、總市值、圖表和資訊 | CoinGecko (幣虎)](https://www.coingecko.com/zh-tw/%E6%95%B8%E5%AD%97%E8%B2%A8%E5%B9%A3/bee-coin)
 
 ---
 

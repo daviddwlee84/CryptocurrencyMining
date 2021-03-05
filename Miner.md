@@ -15,6 +15,12 @@
 > * 2% Fee
 > * Free withdraw with [Coinbase](Managing.md#Coinbase)
 
+* [**Profitability Calculator | NiceHash**](https://www.nicehash.com/profitability-calculator)
+
+Approximate income with NiceHash:
+
+* Nvidia GTX 1080: 69.18 TWD/Day (2776.64 TWD/Month) (assume Electric Cost is 5 TWD/kWH)
+
 ### Cudo Miner
 
 * [Cudo Miner | Cryptocurrency Mining Software | GUI GPU Multiminer |](https://www.cudominer.com/)
@@ -38,6 +44,7 @@
 * [NebuTech/NBMiner: NVIDIA & AMD GPU Miner for ETH, RVN, GRIN, BEAM, CFX, AE, SERO](https://github.com/NebuTech/NBMiner)
 * [ethereum-mining/ethminer: Ethereum miner with OpenCL, CUDA and stratum support](https://github.com/ethereum-mining/ethminer)
 * [PhoenixMiner 5.5c - AMD+NVIDIA GPU Miner [2021]](https://phoenixminer.org/)
+* [luke-jr/bfgminer: Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities.](https://github.com/luke-jr/bfgminer)
 
 ### Unix/Linux
 
@@ -68,3 +75,10 @@ Mining on Mobile!
 
 * [I Mine Blocks – Adventures In Crypto & Blockchain Technology](https://imineblocks.com/)
   * [Micro Miner – I Mine Blocks](http://imineblocks.com/micro-miner/)
+* [**Bitcoin Mining Using Raspberry Pi : 8 Steps (with Pictures) - Instructables**](https://www.instructables.com/Bitcoin-Mining-using-Raspberry-Pi/)
+* [CPU Mining is back! A complete how to guide and profit analysis for Verium mining on a farm of single board computers - Part 1 — Steemit](https://steemit.com/verium/@birty/cpu-mining-is-back-a-complete-how-to-guide-and-profit-analysis-for-verium-mining-on-a-farm-of-single-board-computers-part-1)
+
+## Mine on Mobile
+
+* [Pi Network](https://minepi.com/#download)
+* [边玩游戏边赚Bee, 新生活的每一天 | Bee1314.com](https://bee1314.com/sc/index.html)
