@@ -1,6 +1,10 @@
 # Hardware Setup
 
 * [Non-specialized hardware comparison - Bitcoin Wiki](https://en.bitcoin.it/wiki/Non-specialized_hardware_comparison)
+* Noob’s Guide to building a Deep Learning / Cryptocurrency PC | by Kevin Scott | Medium
+  * [(#1): The Hardware](https://medium.com/@thekevinscott/noobs-guide-to-custom-computer-for-cryptocurrency-and-deep-learning-7caa255adfaf)
+  * [(#2): The OS](https://medium.com/@thekevinscott/noobs-guide-to-building-a-deep-learning-cryptocurrency-pc-2-the-os-39dd20bd9b21)
+  * [(#3): Mining](https://medium.com/@thekevinscott/noobs-guide-to-building-a-deep-learning-cryptocurrency-pc-3-mining-89bc93e4b501)
 
 ## GPU Boosting
 

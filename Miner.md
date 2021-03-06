@@ -36,15 +36,51 @@ Approximate income with NiceHash:
 > * 5% - Silver (for greater than or equal to 1BTC)
 > * 6.5% - Bronze (for less than 0.0005 1BTC)
 
+### MinerGate
+
+* [MinerGate - Cryptocurrency mining pool & easiest GUI miner](https://minergate.com/)
+
+### 輕鬆礦工
+
+* [轻松矿工，为用户创造价值 [轻松矿工]](http://www.qskg.top/)
+* [【科普】细说轻松矿工抽水多少_wsckqiu的博客-CSDN博客_轻松矿工抽水多少](https://blog.csdn.net/wsckqiu/article/details/110806818)
+
+> About 5% fee
+
 ## Mine on PC
 
 ### Cross-Platform
 
-* [Lolliedieb/lolMiner-releases](https://github.com/Lolliedieb/lolMiner-releases)
 * [NebuTech/NBMiner: NVIDIA & AMD GPU Miner for ETH, RVN, GRIN, BEAM, CFX, AE, SERO](https://github.com/NebuTech/NBMiner)
 * [ethereum-mining/ethminer: Ethereum miner with OpenCL, CUDA and stratum support](https://github.com/ethereum-mining/ethminer)
 * [PhoenixMiner 5.5c - AMD+NVIDIA GPU Miner [2021]](https://phoenixminer.org/)
 * [luke-jr/bfgminer: Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities.](https://github.com/luke-jr/bfgminer)
+
+#### lolMiner
+
+* [Lolliedieb/lolMiner-releases](https://github.com/Lolliedieb/lolMiner-releases)
+
+| Preset    | Coin                    | Algorithm             | Fee %   |
+| --------- | ----------------------- | --------------------- | ------- |
+| AION      | Aion                    | Equihash 210/9        | 1.0     |
+| AUTO144_5 | Equihash Pool Selection | Equihash 144/5        | 1.0     |
+| AUTO192_7 | Equihash Pool Selection | Equihash 192/7        | 1.0     |
+| BEAM      | BEAM                    | BeamHash III          | 1.0     |
+| BTCZ      | BitcoinZ                | Equihash 144/5        | 1.0     |
+| BTG       | Bitcoin Gold            | Equihash 144/5        | 1.0     |
+| CTXC      | Cortex Ai               | Cuckaroo 30 CTXC      | 2.5     |
+| ETC       | Ethereum Classic        | Etchash               | 0.7     |
+| **ETH**   | **Ethereum**            | **Ethash**            | **0.7** |
+| EXCC      | Exchange Coin           | Equihash 144/5 (EXCC) | 1.0     |
+| GRIN-C29M | Grin                    | CuckarooM 29          | 2.0     |
+| GRIN-C32  | Grin                    | Cuckatoo 32           | 2.0     |
+| MWC-C29D  | MimbleWimbleCoin        | CuckarooD 29          | 2.0     |
+| MWC-C31   | MimbleWimbleCoin        | Cuckatoo 31           | 2.0     |
+| XSG       | Snowgem                 | Equihash 144/5        | 1.0     |
+| YEC       | YCash                   | Equihash 192/7        | 1.0     |
+| ZCL       | Zclassic                | Equihash 192/7        | 1.0     |
+| ZEL       | Zel Cash                | ZelHash               | 1.0     |
+| ZER       | Zero                    | Equihash 192/7        | 1.0     |
 
 ### Unix/Linux
 

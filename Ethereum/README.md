@@ -5,6 +5,10 @@
 2. Choose a mining algorithm
    1. [lolMiner](#lolminer)
 
+> Note that you can only mine Ethereum on GPUs RAM >= 4GB. And if your GPU RAM is exactly 4GB, you should run in a special mode called zombie mode.
+>
+> * [How to Mine Ethereum and Ethereum Classic on 4GB GPUs - Crypto Mining Blog](https://2miners.com/blog/how-to-mine-ethereum-and-ethereum-classic-on-4gb-gpus/)
+
 ## Ethermine
 
 > [My Dashboard - Ethermine](https://ethermine.org/miners/F0C0650f9723F5854F62b0514d7cDbd85eDb7A59/dashboard)
@@ -122,4 +126,21 @@ Temp (deg C):               72
 Fan Speed (%):              64          
 --------------------------------------------- 
 Average speed (30s): 19.08 mh/s
+```
+
+```txt
+---------------------------------------------
+Statistics (20:37:12); Mining: Ethash
+Connected to: asia1.ethermine.org:4444
+Uptime: 21h 12m 33s
+                         GPU 0     Total
+Speed (mh/s):            29.86     29.86
+Pool (mh/s):             29.13     29.13
+Best Share:               3.2T      3.2T
+Shares (A/S/Hw):       556/0/0   556/0/0
+Power (W):               157.3     157.3
+Efficiency (mh/s/W):     0.189     0.190
+Temp (deg C):               72
+Fan Speed (%):              66
+---------------------------------------------
 ```

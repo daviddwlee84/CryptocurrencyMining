@@ -47,4 +47,13 @@ Note
 
 * [**WhatToMine - Crypto coins mining profit calculator compared to Ethereum**](https://whattomine.com/)
 * [**Cryptocurrency Prices, Charts And Market Capitalizations | CoinMarketCap**](https://coinmarketcap.com/)
-* [Reddit - Mining](https://www.reddit.com/r/mining/)
+
+---
+
+* [Chocolatey Software | Installing Chocolatey](https://chocolatey.org/install)
+
+```powershell
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+
+choco install git vim
+```

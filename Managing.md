@@ -13,6 +13,7 @@ Seems better to have your personal wallet rather than directly use the exchange 
 > * [Best Cryptocurrency Wallet: Choosing the Best Wallet for Crypto](https://www.bitdegree.org/crypto/best-cryptocurrency-wallet)
 > * [Best Bitcoin Wallets of 2021](https://www.thebalance.com/best-bitcoin-wallets-4160642)
 > * [How to Choose a Bitcoin Wallet?](https://cryptonews.com/guides/how-to-choose-a-bitcoin-wallet.htm)
+> * [政大區塊鏈研究社 Blockchain at NCCU.tw - 貼文 | 區塊鏈小知識｜錢包竟然有冷熱之分？ | Facebook](https://www.facebook.com/Blockchain.at.NCCU/posts/2787735338157301)
 
 * [MetaMask](https://metamask.io/) (using)
   * [MetaMask Guides - Binance Chain Docs](https://docs.binance.org/smart-chain/wallet/metamask.html)
