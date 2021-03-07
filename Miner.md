@@ -49,11 +49,17 @@ Approximate income with NiceHash:
 
 ## Mine on PC
 
+| Miner                            | Support Dual Mining | Remark |
+| -------------------------------- | ------------------- | ------ |
+| lolMiner                         | Yes                 |        |
+| Claymore's Miner (EthDcrMiner64) | Yes                 |        |
+| PhoenixMiner                     | Yes                 |        |
+| T-Rex                            | Yes                 |        |
+
 ### Cross-Platform
 
 * [NebuTech/NBMiner: NVIDIA & AMD GPU Miner for ETH, RVN, GRIN, BEAM, CFX, AE, SERO](https://github.com/NebuTech/NBMiner)
 * [ethereum-mining/ethminer: Ethereum miner with OpenCL, CUDA and stratum support](https://github.com/ethereum-mining/ethminer)
-* [PhoenixMiner 5.5c - AMD+NVIDIA GPU Miner [2021]](https://phoenixminer.org/)
 * [luke-jr/bfgminer: Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities.](https://github.com/luke-jr/bfgminer)
 
 #### lolMiner
@@ -81,6 +87,28 @@ Approximate income with NiceHash:
 | ZCL       | Zclassic                | Equihash 192/7        | 1.0     |
 | ZEL       | Zel Cash                | ZelHash               | 1.0     |
 | ZER       | Zero                    | Equihash 192/7        | 1.0     |
+
+Dual Mining: [**lolMiner-releases/dual_and_split_mining.md**](https://github.com/Lolliedieb/lolMiner-releases/blob/master/dual_and_split_mining.md)
+
+#### Claymore's Dual Ethereum+Decred AMD+NVIDIA GPU Miner (EthDcrMiner64)
+
+* [nanopool/Claymore-Dual-Miner: Claymore's Dual Ethereum+Decred_Siacoin_Lbry AMD+NVIDIA GPU Miner](https://github.com/nanopool/Claymore-Dual-Miner)
+* [Claymore-Dual/Claymore-Dual-Miner: Download Ethereum Miner (Updated 2020)](https://github.com/Claymore-Dual/Claymore-Dual-Miner)
+  * [mailon/ethdcrminer64](https://hub.docker.com/r/mailon/ethdcrminer64)
+* [挖礦程式-【Claymore's Dual Ethereum GPU Miner】(一)基礎篇-單挖(ETH)與雙挖(ETH、Dcr)教學](https://hold-man.blogspot.com/2018/08/claymores-dual-ethereum-gpu-miner.html)
+
+> * [Claymore fee a lot more than 1%? : EtherMining](https://www.reddit.com/r/EtherMining/comments/7bf9ra/claymore_fee_a_lot_more_than_1/)
+>
+> zero devfee for all 2GB and 3GB cards in all operating systems.
+
+#### PhoenixMiner
+
+* [PhoenixMiner 5.5c - AMD+NVIDIA GPU Miner [2021]](https://phoenixminer.org/)
+  * [PhoenixMiner 5.5c RC With Improvements, New Features and Fixes - Crypto Mining Blog](https://cryptomining-blog.com/12491-phoenixminer-5-5c-rc-with-improvements-new-features-and-fixes/)
+
+#### T-Rex
+
+* [trexminer/T-Rex: T-Rex NVIDIA GPU miner with web control monitoring page](https://github.com/trexminer/T-Rex)
 
 ### Unix/Linux
 
@@ -118,3 +146,10 @@ Mining on Mobile!
 
 * [Pi Network](https://minepi.com/#download)
 * [边玩游戏边赚Bee, 新生活的每一天 | Bee1314.com](https://bee1314.com/sc/index.html)
+
+---
+
+## Source Code
+
+* [ethereum/aleth: Aleth – Ethereum C++ client, tools and libraries](https://github.com/ethereum/aleth)
+* [Genoil/cpp-ethereum: [Warning: Repo inactive] Ethereum GPU miner with OpenCL, CUDA and stratum support](https://github.com/Genoil/cpp-ethereum)

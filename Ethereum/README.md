@@ -1,13 +1,15 @@
 # Mine Ethereum
 
-1. Choose a mining pool
+1. Choose a mining pool ([Ethereum (ETH) Ethash | Mining Pools](https://miningpoolstats.stream/ethereum))
    1. [Ethermine](#Ethermine)
-2. Choose a mining algorithm
+2. Choose a miner which support mining ETH
    1. [lolMiner](#lolminer)
 
-> Note that you can only mine Ethereum on GPUs RAM >= 4GB. And if your GPU RAM is exactly 4GB, you should run in a special mode called zombie mode.
+> Note that you can only mine Ethereum on GPUs RAM >= 4GB (currently). And if your GPU RAM is exactly 4GB, you should run in a special mode called zombie mode. (TODO: seems it is possible to mine with RAM >= 2GB with [EthDcrMiner64](../Miner.md#claymores-dual-ethereumdecred-amdnvidia-gpu-miner-ethdcrminer64))
 >
 > * [How to Mine Ethereum and Ethereum Classic on 4GB GPUs - Crypto Mining Blog](https://2miners.com/blog/how-to-mine-ethereum-and-ethereum-classic-on-4gb-gpus/)
+>
+> The limitation you can check out current [DAG size required](https://minerstat.com/dag-size-calculator)
 
 ## Ethermine
 

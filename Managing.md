@@ -33,6 +33,8 @@ Seems better to have your personal wallet rather than directly use the exchange 
 
 > Bitfinex, BitForex, Bitterx, DoveWallet, Exmo, Gate.io, Graviex, HitBTC, Hotbit, TradeOgre, Poloniex, Stex
 
+* [Blockchain.com - The Most Trusted Crypto Company](https://www.blockchain.com/)
+
 ### Coinbase
 
 * [Coinbase – Buy & Sell Bitcoin, Ethereum, and more with trust](https://www.coinbase.com/)

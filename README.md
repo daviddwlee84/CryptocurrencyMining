@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-> Assume you have already set up a machine
+> Assume you have already [set up a machine](Hardware.md)
 >
 > (i.e. assemble one with GPU and installed driver (e.g. cuda for Nvidia GPU with specific version with your miner))
 >
@@ -31,6 +31,11 @@ Note
 
 * [Mine Ethereum](Ethereum)
 
+Hacking
+
+* [Mining Ethereum on GTX 1080/ti & Titan XP](Other/ETHlargementPill)
+* (TODO) [Bypass mining fee](Other/MiningFeeHack)
+
 ## Notes
 
 * [Background Knowledge](Background.md)
@@ -42,11 +47,28 @@ Note
   * Digital Currency Exchange - To exchange your digital currency to money
 * [Mining Pools](MiningPool.md)
 * [Miner](Miner.md)
+* [Cost](Cost.md)
+
+## TODO
+
+* [ ] Mining Fee
+* [ ] Dual Mining
+* [ ] Find target to mine on laptop or machine with low GPU RAM
 
 ## Resources
 
+To determine what to / what can you mine
+
 * [**WhatToMine - Crypto coins mining profit calculator compared to Ethereum**](https://whattomine.com/)
+* [Mining Profit Calculator for Video Card (GPU)](https://2cryptocalc.com/)
+* [Mining calculator 🖥️ | minerstat](https://minerstat.com/mining-calculator)
+* [**DAG size calculator and calendar | minerstat**](https://minerstat.com/dag-size-calculator)
+* [**Mining Pool Stats**](https://miningpoolstats.stream/)
+
+Just a overview of current cryptocurrency states
+
 * [**Cryptocurrency Prices, Charts And Market Capitalizations | CoinMarketCap**](https://coinmarketcap.com/)
+* [Cryptocurrency Prices, Portfolio, Forum, Rankings | CryptoCompare.com](https://www.cryptocompare.com/)
 
 ---
 
@@ -57,3 +79,11 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 choco install git vim
 ```
+
+* [**Run multiple commands and kill them as one in bash - Unix & Linux Stack Exchange**](https://unix.stackexchange.com/questions/204480/run-multiple-commands-and-kill-them-as-one-in-bash)
+  * [Subshells](https://tldp.org/LDP/abs/html/subshells.html)
+  * [Process group - Wikipedia](https://en.wikipedia.org/wiki/Process_group)
+* [windows - How to run multiple commands one after another in cmd - Super User](https://superuser.com/questions/1079403/how-to-run-multiple-commands-one-after-another-in-cmd/1079420)
+* [How to Run Two or More Terminal Commands at Once in Linux](https://www.howtogeek.com/269509/how-to-run-two-or-more-terminal-commands-at-once-in-linux/)
+* [bash - Which one is better: using ; or && to execute multiple commands in one line? - Ask Ubuntu](https://askubuntu.com/questions/334994/which-one-is-better-using-or-to-execute-multiple-commands-in-one-line)
+* [Execute multiple commands with 1 line in Windows commandline? - Super User](https://superuser.com/questions/62850/execute-multiple-commands-with-1-line-in-windows-commandline)

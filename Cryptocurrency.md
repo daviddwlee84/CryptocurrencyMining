@@ -1,10 +1,11 @@
 # Cryptocurrency
 
-| Cryptocurrency | Machine            | Remark                        |
-| -------------- | ------------------ | ----------------------------- |
-| Bitcoin (BTC)  | ASIC               | Almost empty; Don't mine this |
-| Ethereum (ETH) | GPU with 4G up RAM | For regular PC gamer          |
-| Monero (XMR)   | CPU                | For machine with GPU          |
+| Cryptocurrency | Machine            | Remark                           |
+| -------------- | ------------------ | -------------------------------- |
+| Bitcoin (BTC)  | ASIC               | Almost empty; Don't mine this    |
+| Ethereum (ETH) | GPU with 4G up RAM | For regular PC gamer             |
+| Monero (XMR)   | CPU                | For machine with GPU             |
+| Zilliqa (ZIL)  | GPU with 3G/4G RAM | Usually dual mining with ETH/ETC |
 
 ## Phases of Cryptocurrency
 
@@ -28,6 +29,9 @@
 * [Home | ethereum.org](https://ethereum.org/en/)
 * [How to mine Ethereum - Coin Rivet](https://coinrivet.com/how-to-mine-ethereum/)
 * [Ethereum (ETH) Blockchain Explorer - etherchain.org - 2021](https://etherchain.org/)
+* [Ethereum (ETH) Blockchain Explorer](https://etherscan.io/)
+  * [Ethereum Blocks | Etherscan](https://etherscan.io/blocks): Fee & Base block reward
+  * [Ethereum Transactions Information | Etherscan](https://etherscan.io/txs): Transaction value
 
 Mining Algorithm
 
@@ -39,6 +43,10 @@ Mining Algorithm
 
 * [Home | Monero - secure, private, untraceable](https://www.getmonero.org/)
 * [Monero (XMR) 價格、圖表、市值及其他指標 | CoinMarketCap](https://coinmarketcap.com/zh-tw/currencies/monero/)
+
+## Zilliqa (ZIL)
+
+* [Homepage | Zilliqa](https://www.zilliqa.com/)
 
 ## Litecoin (LTC)
 

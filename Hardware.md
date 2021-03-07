@@ -36,6 +36,7 @@
 ## Measure Power Consumption
 
 * [Power Supply Calculator - PSU Calculator | OuterVision](https://outervision.com/power-supply-calculator)
+* [Crypto Mining Monitor and Management Software | minerstat](https://minerstat.com/)
 
 ### Monitor Software
 
@@ -44,6 +45,7 @@
 
 * [Open Hardware Monitor - Core temp, fan speed and voltages in a free software gadget](https://openhardwaremonitor.org/)
   * [openhardwaremonitor/openhardwaremonitor: Open Hardware Monitor](https://github.com/openhardwaremonitor/openhardwaremonitor)
+* [GPU-Z Graphics Card GPU Information Utility](https://www.techpowerup.com/gpuz/)
 
 ### Power Meter
 
@@ -63,6 +65,18 @@ nvidia-smi
 
 * [The Ultimate Mining Platform | Hive OS](https://hiveos.farm/)
 
+### ethOS
+
+* [ethOS Mining OS](http://ethosdistro.com/)
+
+> ethOS is a 64-bit linux OS that mines Ethereum, Zcash, Monero, and other GPU-minable coins. Altcoins can be autotraded to Bitcoin.
+
 ### NiceHash OS
 
 * [NHOS | NiceHash](https://www.nicehash.com/nhos-mining)
+
+---
+
+## Minimum Requirement
+
+* [Minimum requirements for a mining pc : BitcoinMining](https://www.reddit.com/r/BitcoinMining/comments/80kg8q/minimum_requirements_for_a_mining_pc/)
