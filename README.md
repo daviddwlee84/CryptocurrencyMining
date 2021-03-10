@@ -51,9 +51,11 @@ Hacking
 
 ## TODO
 
+* [ ] Undervolting and Overclocking
 * [ ] Mining Fee
 * [ ] Dual Mining
 * [ ] Find target to mine on laptop or machine with low GPU RAM
+* [ ] Test if ETHlargementPill can be activated remotely
 
 ## Resources
 

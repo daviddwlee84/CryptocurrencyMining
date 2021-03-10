@@ -6,11 +6,28 @@
   * [(#2): The OS](https://medium.com/@thekevinscott/noobs-guide-to-building-a-deep-learning-cryptocurrency-pc-2-the-os-39dd20bd9b21)
   * [(#3): Mining](https://medium.com/@thekevinscott/noobs-guide-to-building-a-deep-learning-cryptocurrency-pc-3-mining-89bc93e4b501)
 
-## GPU Boosting
+## GPU Setting
 
-### MSI Afterburner
+* [MSI Afterburner](https://www.msi.com/Landing/afterburner)
 
-* [Afterburner](https://www.msi.com/Landing/afterburner)
+1. Undervolting
+   * [Is there any downside to reducing the voltage of your GPU? : EtherMining](https://www.reddit.com/r/EtherMining/comments/7ted93/is_there_any_downside_to_reducing_the_voltage_of/)
+   * Undervolting should only cause instability but not damage. Successful undervolting (stable) should actually increase the life of a gpu due to less heat.
+2. Overclocking
+   1. Lower Core Clock: to save power maybe
+   2. Higher Memory Clock: affect mining speed the most maybe
+3. Power Limit / Voltage
+   * Try to find minimum that keep the mining speed high while using less power
+4. Fan Speed
+   * Higher better, to keep GPU temperature lower to extend its life
+
+### Setting
+
+| GPU      | Core Clock (MHz)  | Memory Clock(MHz)  | Power Limit           | Expected Value      | Remark                                                                     |
+| -------- | ----------------- | ------------------ | --------------------- | ------------------- | -------------------------------------------------------------------------- |
+| GTX 1080 | -200 (about 1660) | +1000 (about 5514) | 68% (157.3W ➡ 142.6W) | 30 mh/s (about 60℃) | Assume using ETHlargementPill, Maximum fan speed; Efficiency 0.190 ➡ 0.216 |
+
+* [Getting the best hashrate out of GTX 1080? : EtherMining](https://www.reddit.com/r/EtherMining/comments/6gmrno/getting_the_best_hashrate_out_of_gtx_1080/)
 
 ## ASIC
 
@@ -79,4 +96,5 @@ nvidia-smi
 
 ## Minimum Requirement
 
+* [**DAG size calculator and calendar | minerstat**](https://minerstat.com/dag-size-calculator)
 * [Minimum requirements for a mining pc : BitcoinMining](https://www.reddit.com/r/BitcoinMining/comments/80kg8q/minimum_requirements_for_a_mining_pc/)

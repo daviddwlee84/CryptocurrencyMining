@@ -61,6 +61,10 @@ This means ~50% less payout tx in total!
 > * Default minimum payout is 0.2 ETH
 > * Share difficulty is static and equal to 10 billion. Recommended minimum hashrate is 5 Mh/s
 
+## 2Miners
+
+* [Altcoin Mining Pool for GPU and ASIC - 2Miners](https://2miners.com/)
+
 ## GPUMINE
 
 * [GPUMINE POOL](https://gpumine.org/tw)

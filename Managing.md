@@ -19,6 +19,17 @@ Seems better to have your personal wallet rather than directly use the exchange 
   * [MetaMask Guides - Binance Chain Docs](https://docs.binance.org/smart-chain/wallet/metamask.html)
 * [Coinomi: The blockchain wallet trusted by millions.](https://www.coinomi.com/en/)
 
+### Zilliqa
+
+* [Wallets | Zilliqa](https://www.zilliqa.com/wallets)
+
+#### Zillet
+
+> Open-sourced Zilliqa Wallet
+
+* [zillet/zillet: UI/UX focused minimal web wallet powered by NuxtJS and TailwindCSS](https://github.com/zillet/zillet)
+* [Zillet | Secure Zilliqa wallet | Zillet.io](https://zillet.io/)
+
 ## Digital Currency Exchange
 
 > * [Best Crypto Exchange Reviews 2020 - Find Top Crypto Exchanges](https://www.bitdegree.org/crypto/)

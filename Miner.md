@@ -101,10 +101,20 @@ Dual Mining: [**lolMiner-releases/dual_and_split_mining.md**](https://github.com
 >
 > zero devfee for all 2GB and 3GB cards in all operating systems.
 
-#### PhoenixMiner
+#### ~~PhoenixMiner~~
 
-* [PhoenixMiner 5.5c - AMD+NVIDIA GPU Miner [2021]](https://phoenixminer.org/)
-  * [PhoenixMiner 5.5c RC With Improvements, New Features and Fixes - Crypto Mining Blog](https://cryptomining-blog.com/12491-phoenixminer-5-5c-rc-with-improvements-new-features-and-fixes/)
+SEEMS TO HAVE BACKDOOR?!
+
+[STOP using Phoenix miner immediately! | NiceHash](https://www.nicehash.com/blog/post/stop-using-phoenix-miner-immediately)
+
+* [PhoenixMiner 5.5c: fastest Ethereum/Ethash miner with lowest devfee (Win/Linux)](https://bitcointalk.org/index.php?topic=2647654.0)
+
+> * [PhoenixMiner full of viruses/malware? I've been getting a lot of red flags with their latest versions (5.2-5.3). I understand the 'coinminer' false positive but what about this? Is windows defender just getting more aggressive? : gpumining](https://www.reddit.com/r/gpumining/comments/k2xcmo/phoenixminer_full_of_virusesmalware_ive_been/)
+> * [PhoenixMiner 5.5c - AMD+NVIDIA GPU Miner [2021]](https://phoenixminer.org/)
+>   * [PhoenixMiner 5.5c RC With Improvements, New Features and Fixes - Crypto Mining Blog](https://cryptomining-blog.com/12491-phoenixminer-5-5c-rc-with-improvements-new-features-and-fixes/)
+
+* Lowest developer fee of 0.65% (35 seconds defvee mining per each 90 minutes)
+* Dual mining ethash/Blake2s with lowest devfee of 0.9% (35 seconds defvee mining per each 65 minutes)
 
 #### T-Rex
 

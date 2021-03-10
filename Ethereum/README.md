@@ -51,6 +51,10 @@
 .\mine_ethereum-ethermine_lolMiner.ps1
 ```
 
+## F2Pool
+
+* [以太坊（Ethereum）挖礦教學 – 幫助中心](https://blog.f2pool.com/zh-tw/mining-tutorial-zh/eth_zh)
+
 ## Binance
 
 * [Binance Ethereum Mining Tutorial | Binance Support](https://www.binance.com/en/support/faq/9bd21a9536d74d1fb65c83f8e60ded93)
@@ -58,9 +62,11 @@
 
 ---
 
+* [lolMiner: Step-by-Step Guide - Crypto Mining Blog](https://2miners.com/blog/lolminer-step-by-step-guide/)
+
 ## Run lolMiner on GeForce GTX 1080
 
-> Takes about 4431 MB
+> Takes about 4431 MB (2021/3 DAG Size)
 
 ```txt
 ➜  Ethereum git:(main) ✗ ./mine_ethereum-ethermine_lolMiner.sh 
@@ -130,6 +136,8 @@ Fan Speed (%):              64
 Average speed (30s): 19.08 mh/s
 ```
 
+After using ETHlargementPill
+
 ```txt
 ---------------------------------------------
 Statistics (20:37:12); Mining: Ethash
@@ -144,5 +152,24 @@ Power (W):               157.3     157.3
 Efficiency (mh/s/W):     0.189     0.190
 Temp (deg C):               72
 Fan Speed (%):              66
+---------------------------------------------
+```
+
+After using ETHlargementPill + MSI Afterburner
+
+```txt
+---------------------------------------------
+Statistics (18:00:36); Mining: Ethash
+Connected to: asia1.ethermine.org:4444
+Uptime: 0h 10m 0s
+                       GPU 0   Total
+Speed (mh/s):          30.81   30.81
+Pool (mh/s):           40.00   40.00
+Best Share:            15.7G   15.7G
+Shares (A/S/Hw):       6/0/0   6/0/0
+Power (W):             142.8   142.8
+Efficiency (mh/s/W):   0.215   0.216
+Temp (deg C):             58
+Fan Speed (%):            97
 ---------------------------------------------
 ```

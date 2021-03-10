@@ -94,7 +94,7 @@ Usually when mining ZIL you need to mine ETH on the same pool or you need to rel
 ## Mining Terminology
 
 * **Hashrate**: Mining Speed Measure
-  * mh/s stands for "Mega hash per second"
+  * *mh/s* stands for "Mega hash per second"
 * **Shares**
   * **valid**
   * **stale**
@@ -103,6 +103,17 @@ Usually when mining ZIL you need to mine ETH on the same pool or you need to rel
   * [**Difficulty - Bitcoin Wiki**](https://en.bitcoin.it/wiki/Difficulty)
   * [What does mining difficulty mean? — Bitpanda Academy](https://www.bitpanda.com/academy/en/lessons/what-does-mining-difficulty-mean/)
   * [Blockchain Charts](https://www.blockchain.com/charts/difficulty)
+* **Block Height**
+* **Block Reward**
+* **Gas**
+  * [Ethereum Gas Tracker | Etherscan](https://etherscan.io/gastracker)
+  * **Gas Price**
+    * *gwei*
+    * Gwei = 0.000000001 ETH
+  * **Gas Limit**
+  * **Tx Fee**
+    * Tx Fee = Gas Limit * Gas Price
+  * [【新手教學】到底什麼是Gas、Gas Price、Gas Limit？ - 桑幣筆記Zombit](https://zombit.info/%E5%88%B0%E5%BA%95%E4%BB%80%E9%BA%BC%E6%98%AFgas%E3%80%81gas-limit%E3%80%81gas-price%EF%BC%9F/)
 
 ## Other
 
@@ -116,11 +127,19 @@ Usually when mining ZIL you need to mine ETH on the same pool or you need to rel
 
 ---
 
+Forum
+
 * [Reddit - Mining](https://www.reddit.com/r/mining/)
 * [Reddit - EtherMining](https://www.reddit.com/r/EtherMining/)
+* [Reddit - GPU Mining - Ethereum, Z-coins and other Alt-Currency Mining](https://www.reddit.com/r/gpumining/)
+* [GPU Mining 顯示卡挖礦 | Facebook](https://www.facebook.com/groups/gpumining/)
+
+Personal
+
 * [區塊里 里長伯 | Facebook](https://www.facebook.com/Blockchain.Litiunbeh)
 * [ROY 加密貨幣交易筆記 | Facebook](https://www.facebook.com/roy4crypto)
 * [腦哥 Brain Bro | Facebook](https://www.facebook.com/brainbro69)
+* [兔頭哥 | Facebook](https://www.facebook.com/Small4Home)
 
 ---
 

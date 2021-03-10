@@ -27,6 +27,7 @@
 ## Ethereum (ETH)
 
 * [Home | ethereum.org](https://ethereum.org/en/)
+* [ethereum/go-ethereum: Official Go implementation of the Ethereum protocol](https://github.com/ethereum/go-ethereum) ([Go Ethereum](https://geth.ethereum.org/))
 * [How to mine Ethereum - Coin Rivet](https://coinrivet.com/how-to-mine-ethereum/)
 * [Ethereum (ETH) Blockchain Explorer - etherchain.org - 2021](https://etherchain.org/)
 * [Ethereum (ETH) Blockchain Explorer](https://etherscan.io/)
