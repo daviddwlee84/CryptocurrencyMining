@@ -133,6 +133,8 @@ Forum
 * [Reddit - EtherMining](https://www.reddit.com/r/EtherMining/)
 * [Reddit - GPU Mining - Ethereum, Z-coins and other Alt-Currency Mining](https://www.reddit.com/r/gpumining/)
 * [GPU Mining 顯示卡挖礦 | Facebook](https://www.facebook.com/groups/gpumining/)
+* [看板DigiCurrency (數位貨幣) - [數位貨幣] 穿越小行星帶 [資訊] | PTT數位生活區](https://pttdigits.com/DigiCurrency)
+* [Bitcoin Forum - Index](https://bitcointalk.org/)
 
 Personal
 

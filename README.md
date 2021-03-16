@@ -20,7 +20,7 @@ There is potential that Windows thinks the miner is a virus. This is how to conf
 1. Search "Virus & threat protection"
 2. Goto "Virus & threat protection settings" and click "Manage settings"
 3. Goto "Exclusions" and click "Add or remove exclusions"
-4. Add this folder (i.e. the directory)
+4. Add this folder (i.e. the repository directory)
 
 Note
 
@@ -51,7 +51,7 @@ Hacking
 
 ## TODO
 
-* [ ] Undervolting and Overclocking
+* [ ] Undervolting and Overclocking => Enlarge GTX 1080 mining speed
 * [ ] Mining Fee
 * [ ] Dual Mining
 * [ ] Find target to mine on laptop or machine with low GPU RAM

@@ -51,6 +51,21 @@
 .\mine_ethereum-ethermine_lolMiner.ps1
 ```
 
+> Add this for quicker mining
+>
+> * [How to create permanent PowerShell Aliases - Stack Overflow](https://stackoverflow.com/questions/24914589/how-to-create-permanent-powershell-aliases)
+>
+> ```powershell
+> vim $profile
+> ```
+>
+> ```powershell
+> function GoMine {Set-Location C:\path_to_this_repository\CryptocurrencyMining\Ethereum}
+> New-Alias mine GoMine
+> ```
+>
+> Then you can use `mine` to goto this folder
+
 ## F2Pool
 
 * [以太坊（Ethereum）挖礦教學 – 幫助中心](https://blog.f2pool.com/zh-tw/mining-tutorial-zh/eth_zh)
@@ -155,7 +170,7 @@ Fan Speed (%):              66
 ---------------------------------------------
 ```
 
-After using ETHlargementPill + MSI Afterburner
+After using ETHlargementPill + MSI Afterburner (core -200, mem +1000)
 
 ```txt
 ---------------------------------------------
@@ -173,3 +188,7 @@ Temp (deg C):             58
 Fan Speed (%):            97
 ---------------------------------------------
 ```
+
+After using ETHlargementPill + MSI Afterburner (core -200, mem +1000)
+
+Disconnect issue

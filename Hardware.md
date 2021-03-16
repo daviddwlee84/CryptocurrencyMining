@@ -21,13 +21,23 @@
 4. Fan Speed
    * Higher better, to keep GPU temperature lower to extend its life
 
+Note:
+
+* DO NOT change MSI Afterburner setting while using ETHlargementPill or your monitor will crash (if so, just force to reboot)
+
 ### Setting
 
-| GPU      | Core Clock (MHz)  | Memory Clock(MHz)  | Power Limit           | Expected Value      | Remark                                                                     |
-| -------- | ----------------- | ------------------ | --------------------- | ------------------- | -------------------------------------------------------------------------- |
-| GTX 1080 | -200 (about 1660) | +1000 (about 5514) | 68% (157.3W ➡ 142.6W) | 30 mh/s (about 60℃) | Assume using ETHlargementPill, Maximum fan speed; Efficiency 0.190 ➡ 0.216 |
+> Maximum fan speed
+
+| GPU      | Core Clock (MHz)  | Memory Clock(MHz)  | Power Limit           | Expected Value            | Remark                                                    |
+| -------- | ----------------- | ------------------ | --------------------- | ------------------------- | --------------------------------------------------------- |
+| GTX 1080 | -200 (about 1660) | +1000 (about 5514) | 68% (157.3W ➡ 142.6W) | 30 mh/s (about 60℃)       | Efficiency 0.190 ➡ 0.216; Use OhGodAnETHlargementPill.exe |
+| GTX 1080 | +100 (about 1961) | +400 (about 4911)  | 70% (148.8W)          | 32.5 mh/s (about 63℃)     | Efficiency 0.219; Use ETHlargementPill-r2.exe             |
+| GTX 1080 | TODO              | TODO               | TODO                  | Should able to get higher |                                                           |
 
 * [Getting the best hashrate out of GTX 1080? : EtherMining](https://www.reddit.com/r/EtherMining/comments/6gmrno/getting_the_best_hashrate_out_of_gtx_1080/)
+* [Nvidia Geforce GTX 1080 Mining Hashrate](https://www.minershashrates.com/gtx-1080-hashrate/)
+* [[ANN] [1080 | 1080TI] ETHlargement - The Hashrate Hardener](https://bitcointalk.org/index.php?topic=3370685.0)
 
 ## ASIC
 
@@ -42,6 +52,9 @@
 > * [Amazon.com: ASIC Miner Block Erupter USB Bitcoin 333 MH/s BTC: Computers & Accessories](https://www.amazon.com/ASIC-Miner-Block-Erupter-Bitcoin/dp/B00XNI1CL2/ref=sr_1_9?dchild=1&keywords=usb+bitcoin+miner&qid=1614925537&sr=8-9)
 > * [Amazon.com: GekkoScience NewPac 130Gh/s+ USB Bitcoin / SHA256 Stick Miner Most Efficient, Powerful USB Miner on Market: Computers & Accessories](https://www.amazon.com/GekkoScience-NewPac-Efficient-Powerful-Multi-Pool/dp/B07MNQGZW8)
 > * [5 Best USB Bitcoin Miners 2021 – Reviews & Buying Guide](https://www.bitcongress.org/bitcoin/mining/best-usb-bitcoin-miners/)
+
+* [DIY Bitcoin Mining: Hardware (part1) - YouTube](https://www.youtube.com/watch?v=fJSITD0sPVY)
+* [DIY Bitcoin Mining: Software (part 2) - YouTube](https://www.youtube.com/watch?v=MH2i9pudQgk)
 
 ## GPU Mining Rig
 
@@ -63,6 +76,7 @@
 * [Open Hardware Monitor - Core temp, fan speed and voltages in a free software gadget](https://openhardwaremonitor.org/)
   * [openhardwaremonitor/openhardwaremonitor: Open Hardware Monitor](https://github.com/openhardwaremonitor/openhardwaremonitor)
 * [GPU-Z Graphics Card GPU Information Utility](https://www.techpowerup.com/gpuz/)
+* (TODO) `hwinfo`
 
 ### Power Meter
 
