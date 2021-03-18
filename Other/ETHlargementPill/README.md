@@ -6,17 +6,19 @@ VERY IMPORTANT: ONLY THE PILL ONCE YOU **START MINING**, OTHERWISE YOU WILL HAVE
 
 ## Setup
 
+Windows
+
 ```powershell
 .\get_pill.ps1
 ```
 
+Linux
+
+```bash
+./get_pill.sh
+```
+
 ## Run
-
-> Not sure which one is better...
-
-### Run on Linux
-
-> TODO
 
 ### Run on Windows
 
@@ -41,7 +43,20 @@ ETHlargement pills are currently being served. Please keep this window open, and
 
 Before: `Average speed (30s): 20.42 mh/s`
 
-After: `Average speed (30s): 30.01 mh/s`
+After: `Average speed (30s): 30.01 mh/s` === overclock ===> `32.5 mh/s`
+
+### Run on Linux
+
+```powershell
+# old one
+sudo ./OhGodAnETHlargementPill
+# new one
+sudo ./OhGodAnETHlargementPill-r2
+```
+
+Before: `Average speed (30s): 20.64 mh/s`
+
+After: `Average speed (30s): 29.44 mh/s`
 
 ## Resources
 

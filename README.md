@@ -52,6 +52,8 @@ Hacking
 ## TODO
 
 * [ ] Undervolting and Overclocking => Enlarge GTX 1080 mining speed
+  * [X] Windows
+  * [ ] Linux
 * [ ] Mining Fee
 * [ ] Dual Mining
 * [ ] Find target to mine on laptop or machine with low GPU RAM
