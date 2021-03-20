@@ -191,4 +191,36 @@ Fan Speed (%):            97
 
 After using ETHlargementPill + MSI Afterburner (core -200, mem +1000)
 
-Disconnect issue
+```txt
+Average speed (30s): 32.29 mh/s
+---------------------------------------------
+Statistics (19:47:06); Mining: Ethash
+Connected to: asia1.ethermine.org:4444
+Uptime: 6h 16m 35s
+                         GPU 0     Total
+Speed (mh/s):            32.41     32.41
+Pool (mh/s):             33.28     33.28
+Best Share:             600.3G    600.3G
+Shares (A/S/Hw):       188/0/0   188/0/0
+Power (W):               146.7     146.7
+Efficiency (mh/s/W):     0.220     0.221
+Temp (deg C):               65
+Fan Speed (%):              97
+---------------------------------------------
+```
+
+Disconnect issue (still unknown)
+
+```txt
+GPU 0: Share is stale (93 ms)
+GPU 0: Share is stale (93 ms)
+GPU 0: Share is stale (94 ms)
+Too many stale shares in a row. Reconnecting.
+The miner or pool requested a reconnection. Doing so.
+Lost connection to stratum server asia1.ethermine.org:4444 or server not reachable.
+Trying to connect in 1 second
+Connected to asia1.ethermine.org:4444  (TLS disabled)
+Set Ethash stratum mode: Ethereum Proxy
+GPU 0: Share is stale (622 ms)
+Authorized worker: 0xF0C0650f9723F5854F62b0514d7cDbd85eDb7A59.lolMinerWorker
+```

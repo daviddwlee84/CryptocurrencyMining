@@ -57,6 +57,12 @@ Mining Algorithm
 
 * [Home – EOSIO Blockchain Software & Services](https://eos.io/)
 
+## Sushi (SUSHI)
+
+* [SushiSwap](https://www.sushi.com/)
+* [SushiSwap](https://github.com/sushiswap)
+* [sushiswap/sushiswap: Sushiswap smart contracts 🍣 📝](https://github.com/sushiswap/sushiswap)
+
 ## Pi Network
 
 * [Pi Network](https://minepi.com/)

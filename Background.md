@@ -38,6 +38,7 @@ Types
 
 * [一起來流動性挖礦！ — — 四個步驟帶你操作 Balancer 挖 BAL 代幣！ | by Raizel | Dapp Pocket | Medium](https://medium.com/dapp-pocket/%E4%B8%80%E8%B5%B7%E4%BE%86%E6%B5%81%E5%8B%95%E6%80%A7%E6%8C%96%E7%A4%A6-%E5%9B%9B%E5%80%8B%E6%AD%A5%E9%A9%9F%E5%B8%B6%E4%BD%A0%E6%93%8D%E4%BD%9C-balancer-%E6%8C%96-bal-%E4%BB%A3%E5%B9%A3-7226cf443950)
 * [什麼是流動性挖礦？存款年利率 80%~1000%！？ - YouTube](https://www.youtube.com/watch?v=GbeybjuWwJs)
+* [DeFi 回暖？SUSHI 本週暴漲 88%，分析師：SushiSwap技術升級在即、UNI 將終止流動性挖礦 | 動區動趨-最具影響力的區塊鏈媒體 (比特幣, 虛擬貨幣)](https://www.blocktempo.com/defi-sushi-surges-while-sushiswap-releasing-upgrades/)
 
 ## Dual Mining
 
@@ -114,6 +115,7 @@ Usually when mining ZIL you need to mine ETH on the same pool or you need to rel
   * **Tx Fee**
     * Tx Fee = Gas Limit * Gas Price
   * [【新手教學】到底什麼是Gas、Gas Price、Gas Limit？ - 桑幣筆記Zombit](https://zombit.info/%E5%88%B0%E5%BA%95%E4%BB%80%E9%BA%BC%E6%98%AFgas%E3%80%81gas-limit%E3%80%81gas-price%EF%BC%9F/)
+  * [到底什麼是Gas? – GPUMINE幫助中心](https://gpumine.zendesk.com/hc/zh-tw/articles/900001959066-%E5%88%B0%E5%BA%95%E4%BB%80%E9%BA%BC%E6%98%AFGas-)
 
 ## Other
 
@@ -135,6 +137,10 @@ Forum
 * [GPU Mining 顯示卡挖礦 | Facebook](https://www.facebook.com/groups/gpumining/)
 * [看板DigiCurrency (數位貨幣) - [數位貨幣] 穿越小行星帶 [資訊] | PTT數位生活區](https://pttdigits.com/DigiCurrency)
 * [Bitcoin Forum - Index](https://bitcointalk.org/)
+
+Blog
+
+* [動區動趨-最具影響力的區塊鏈媒體 (比特幣, 虛擬貨幣)](https://www.blocktempo.com/)
 
 Personal
 
@@ -159,3 +165,6 @@ Personal
   * FUD
   * CHOYNA
   * ...
+* 刷網格: 俗稱天地單，就是自動化交易一種，在設定的價格內自動低買高賣，震盪時特別有用，但打不過整體的趨勢的漲跌
+* Fraud
+  * [幣寶 BitPoint Taiwan](https://www.bitpoint-tw.com/)

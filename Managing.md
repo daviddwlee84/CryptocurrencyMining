@@ -14,6 +14,7 @@ Seems better to have your personal wallet rather than directly use the exchange 
 > * [Best Bitcoin Wallets of 2021](https://www.thebalance.com/best-bitcoin-wallets-4160642)
 > * [How to Choose a Bitcoin Wallet?](https://cryptonews.com/guides/how-to-choose-a-bitcoin-wallet.htm)
 > * [政大區塊鏈研究社 Blockchain at NCCU.tw - 貼文 | 區塊鏈小知識｜錢包竟然有冷熱之分？ | Facebook](https://www.facebook.com/Blockchain.at.NCCU/posts/2787735338157301)
+> * [科普｜初識加密貨幣錢包，「冷錢包」、「熱錢包」有什麼不同？ – 動區動趨-最具影響力的區塊鏈媒體 (比特幣, 虛擬貨幣)](https://www.blocktempo.com/guide-item/bitcoin-101-ch4-cold-wallet-and-hot-wallet/)
 
 * [MetaMask](https://metamask.io/) (using)
   * [MetaMask Guides - Binance Chain Docs](https://docs.binance.org/smart-chain/wallet/metamask.html)

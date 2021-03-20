@@ -58,6 +58,10 @@ Before: `Average speed (30s): 20.64 mh/s`
 
 After: `Average speed (30s): 29.44 mh/s`
 
+### Run on Hive OS
+
+* [GTX 1080 Pill issues in HiveOS - Nvidia Cards - Hive OS Forum](https://forum.hiveos.farm/t/gtx-1080-pill-issues-in-hiveos/21807)
+
 ## Resources
 
 * [LukasBures/OhGodAnETHlargementPill: ED (Ethereum Dysfunction) affects 1 in 10 NVIDIA GPUs in North America. But don't worry - OhGodACompany is here to help.](https://github.com/LukasBures/OhGodAnETHlargementPill)

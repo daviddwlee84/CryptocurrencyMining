@@ -38,6 +38,7 @@ Note:
 * [Getting the best hashrate out of GTX 1080? : EtherMining](https://www.reddit.com/r/EtherMining/comments/6gmrno/getting_the_best_hashrate_out_of_gtx_1080/)
 * [Nvidia Geforce GTX 1080 Mining Hashrate](https://www.minershashrates.com/gtx-1080-hashrate/)
 * [[ANN] [1080 | 1080TI] ETHlargement - The Hashrate Hardener](https://bitcointalk.org/index.php?topic=3370685.0)
+* [Overclocking profiles | Hive OS](https://hiveos.farm/getting_started-start_oc/#Example-Nvidia-GTX-16-Overclocking)
 
 ## ASIC
 
@@ -95,6 +96,7 @@ nvidia-smi
 ### HiveOS
 
 * [The Ultimate Mining Platform | Hive OS](https://hiveos.farm/)
+* [minershive (Miners Hive)](https://github.com/minershive)
 
 ### ethOS
 
