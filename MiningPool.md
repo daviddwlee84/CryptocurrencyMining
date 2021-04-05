@@ -43,7 +43,7 @@ This means ~50% less payout tx in total!
 
 ## Hiveon Pool
 
-> The default pool of Hive OS
+> The default pool of [Hive OS](Hardware.md#Hive-OS)
 
 * [Hiveon Pool – Most profitable and efficient mining pool](https://hiveon.net/)
 
@@ -73,6 +73,12 @@ This means ~50% less payout tx in total!
 * [GPUMINE POOL](https://gpumine.org/tw)
 * [ETH轉帳相關 – GPUMINE幫助中心](https://gpumine.zendesk.com/hc/zh-tw/articles/360024511311-ETH%E8%BD%89%E5%B8%B3%E7%9B%B8%E9%97%9C)
 * [挖礦出金實測 – GPUMINE幫助中心](https://gpumine.zendesk.com/hc/zh-tw/articles/900000601226-%E6%8C%96%E7%A4%A6%E5%87%BA%E9%87%91%E5%AF%A6%E6%B8%AC)
+
+## SparkPool
+
+> The default of [FlintOS](Hardware.md#FlintOS)
+
+* [SparkPool - Crypto Mining & Staking Pool. ETH Pool](https://www.sparkpool.com/en/)
 
 ---
 

@@ -11,6 +11,7 @@
 * [Leading Cryptocurrency Platform for Mining and Trading | NiceHash](https://www.nicehash.com/)
 * [nicehash/NiceHashMiner: NiceHash Miner](https://github.com/nicehash/NiceHashMiner)
 * [How To Start Mining with NiceHash - Official Guide - YouTube](https://www.youtube.com/watch?v=YkG9TStbhVo)
+* [使用NiceHash在魚池挖礦的方法 – 幫助中心](https://blog.f2pool.com/zh-tw/mining-tutorial-zh/nicehash-tw)
 
 > * 2% Fee
 > * Free withdraw with [Coinbase](Managing.md#Coinbase)
@@ -20,6 +21,13 @@
 Approximate income with NiceHash:
 
 * Nvidia GTX 1080: 69.18 TWD/Day (2776.64 TWD/Month) (assume Electric Cost is 5 TWD/kWH)
+
+Algorithm
+
+* [Algorithms | NiceHash](https://www.nicehash.com/algorithm/)
+  * [daggerhashimoto | NiceHash](https://www.nicehash.com/algorithm/daggerhashimoto)
+  * [Dagger-Hashimoto – Alghorithm, Blockchain, Coins – BitcoinWiki](https://en.bitcoinwiki.org/wiki/Dagger-Hashimoto)
+* [Pricing | NiceHash](https://www.nicehash.com/pricing)
 
 ### Cudo Miner
 
