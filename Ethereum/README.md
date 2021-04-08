@@ -11,6 +11,8 @@
 >
 > The limitation you can check out current [DAG size required](https://minerstat.com/dag-size-calculator)
 
+* [HiveOn vs Ethermine : EtherMining](https://www.reddit.com/r/EtherMining/comments/kjefjs/hiveon_vs_ethermine/)
+
 ## Ethermine
 
 > [My Dashboard - Ethermine](https://ethermine.org/miners/F0C0650f9723F5854F62b0514d7cDbd85eDb7A59/dashboard)

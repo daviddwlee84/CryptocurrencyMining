@@ -65,7 +65,7 @@ Inno3D twin x2 oc
 
 ### RTX 3090
 
-...
+* [Nvidia RTX 3090 mining calculator ⛏️ | minerstat](https://minerstat.com/hardware/nvidia-rtx-3090)
 
 ...
 
@@ -75,6 +75,29 @@ Inno3D twin x2 oc
 
 * [The Ultimate Mining Platform | Hive OS](https://hiveos.farm/)
 * [minershive (Miners Hive)](https://github.com/minershive)
+* [Guides and FAQs | Hive OS](https://hiveos.farm/knowledge-base/)
+* [Hive OS Forum - Hive OS Forum](https://forum.hiveos.farm/)
+* [Telegram: Contact @minershive](https://t.me/minershive)
+
+#### Hive OS API
+
+* [Hive API v2 - Account - Hive OS Forum](https://forum.hiveos.farm/t/hive-api-v2/4490)
+
+#### Hive OS Billing
+
+* [Billing in Hive OS: Important Updates from 06/12/2020 | by Liliia Nik | Hive OS | Medium](https://medium.com/hiveon/hiveon-pool-important-updates-cd4f1be00f0a)
+* [Billing - Account - Hive OS Forum](https://forum.hiveos.farm/t/billing/6916)
+
+#### Hive OS Steps
+
+1. Farm
+2. Worker => set name and password => download `rig.config`
+3. Make Hive OS image USB and copy configuration file to the root directory of the USB
+4. Flight Sheet
+   1. Wallet
+   2. Mining Pool
+   3. Mining Algorithm
+5. Overclocking
 
 ### ethOS
 

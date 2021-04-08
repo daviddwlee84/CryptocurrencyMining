@@ -2,14 +2,14 @@
 
 Note that the network latency might affect the mining efficiency
 
-| Mining Pool  | Support Coin Type | Minimum Payout Threshold   | Fee & Profit Sharing | Remark                        |
-| ------------ | ----------------- | -------------------------- | -------------------- | ----------------------------- |
-| Ethermine    | ETH               | 0.05 ETH (0.01 ETH/14days) | (PPLNS)              | Asia latency about 37ms       |
-| Ethpool      | ETH               |                            |                      | Solo Mining                   |
-| F2Pool       | Multiple          |                            |                      |                               |
-| Hiveon Pool  | ETH, ETC          |                            |                      |                               |
-| Binance Pool | BTC, ETH          |                            |                      |                               |
-| GPUMINE      | ETH               | 0.1 ETH (0.01 ETH/28days)  | 1% (PPS+)            | Locate in Taiwan (lower ping) |
+| Mining Pool  | Support Coin Type | Minimum Payout Threshold   | Fee & Profit Sharing  | Remark                                       |
+| ------------ | ----------------- | -------------------------- | --------------------- | -------------------------------------------- |
+| Ethermine    | ETH               | 0.05 ETH (0.01 ETH/14days) | (PPLNS)               | Asia latency about 24~37ms                   |
+| Ethpool      | ETH               |                            |                       | Solo Mining                                  |
+| F2Pool       | Multiple          |                            |                       |                                              |
+| Hiveon Pool  | ETH, ETC          |                            | 3% or $3/month (PPS+) | Up to 4 free rig if mine on this with HiveOS |
+| Binance Pool | BTC, ETH          |                            |                       |                                              |
+| GPUMINE      | ETH               | 0.1 ETH (0.01 ETH/28days)  | 1% (PPS+)             | Locate in Taiwan (lower ping)                |
 
 ## Ethermine
 
@@ -90,6 +90,6 @@ This means ~50% less payout tx in total!
 * PPLNS (Pay Per Last N Share)
   * PPLNS Formula: `((Block Value + Transaction Fees) / 10) - Pool Fee (3%)`
   * [What is PPLNS? ( Credit to http://www.etcwiki.org ) : bitfly Support Portal](https://support.bitfly.at/support/solutions/articles/8000053688-what-is-pplns-credit-to-http-www-etcwiki-org-)
-* PPS+
+* PPS+: miners are paid for each valid share that they submit to the pool
 * FPPS
 * SOLO

@@ -2,6 +2,7 @@
 
 > Mainly focus on GPU mining
 
+* What to buy: [**GPU Mining Rig Buying Guide - All You Need To Know | The Basics - YouTube**](https://www.youtube.com/watch?v=hNqs3Fn8TNo)
 * [Non-specialized hardware comparison - Bitcoin Wiki](https://en.bitcoin.it/wiki/Non-specialized_hardware_comparison)
 * Noob’s Guide to building a Deep Learning / Cryptocurrency PC | by Kevin Scott | Medium
   * [(#1): The Hardware](https://medium.com/@thekevinscott/noobs-guide-to-custom-computer-for-cryptocurrency-and-deep-learning-7caa255adfaf)
@@ -63,14 +64,21 @@ Note:
 
 > * [專業礦工來教你怎麼組礦機，和各種基本組裝知識 | 挖礦日記#7 - YouTube](https://www.youtube.com/watch?v=Hwfrmsw0-88)
 
-### Ingredient
+### PCIe Extend
 
-* Riser: extend the PCIe plugs
+> extend the PCIe plugs
 
-### GPU Mining Rig
+* [請益 - 挖礦 PCI-E 1X to 16X 轉接問題請教 - Mobile01](https://www.mobile01.com/topicdetail.php?f=298&t=6319447)
 
-1. Mining Frame (Optional)
-2. ... (TODO)
+> PCIe x1 (c16) ....
+
+#### Riser
+
+#### PCIe Knowledge
+
+* PCIe x16: Long with lock => GPU ok natively
+* PCIe x1: Short without lock => GPU ok with PCIe switch
+* PCI: Long without lock => X
 
 ---
 

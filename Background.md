@@ -96,14 +96,15 @@ Usually when mining ZIL you need to mine ETH on the same pool or you need to rel
 
 * **Hashrate**: Mining Speed Measure
   * *mh/s* stands for "Mega hash per second"
-* **Shares**
-  * **valid**
-  * **stale**
-  * **invalid**
+* **Shares**: the "answer" sent by the miner. this is used to calculate real hash rate online.
+  * **valid**: normal situation.
+  * **stale**: delayed answer. receive discounted reward. (usually caused by the latency of the internet).
+  * **invalid**: won't get any reward.
 * **Difficulty**: Difficulty is a measure of how difficult it is to find a hash below a given target.
   * [**Difficulty - Bitcoin Wiki**](https://en.bitcoin.it/wiki/Difficulty)
   * [What does mining difficulty mean? — Bitpanda Academy](https://www.bitpanda.com/academy/en/lessons/what-does-mining-difficulty-mean/)
   * [Blockchain Charts](https://www.blockchain.com/charts/difficulty)
+  * [用Hashrate和挖礦難度來預測2020比特幣價格 - 區塊吧 BLOCKBAR](https://blockbar.io/blockchain-investment-analytics/%E7%94%A8hashrate%E5%92%8C%E6%8C%96%E7%A4%A6%E9%9B%A3%E5%BA%A6%E4%BE%86%E9%A0%90%E6%B8%AC%E6%AF%94%E7%89%B9%E5%B9%A3%E5%83%B9%E6%A0%BC-predict-bitcoin-price-with-mining-difficulty-and-hashrate/)
 * **Block Height**
 * **Block Reward**
 * **Gas**
