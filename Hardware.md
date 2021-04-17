@@ -39,6 +39,9 @@ Note:
 
 > * [【心得】為什麼NV 3080、3090要大一點的電源瓦數 @電腦應用綜合討論 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=60030&snA=559927)
 
+* Server power supply
+* ATX power supply
+
 ### Dual PSU setup
 
 * ATX power cable: to support dual power supplies (trigger the second PSU power up)
@@ -46,7 +49,7 @@ Note:
 
 ### Measuring
 
-#### Monitor Software
+#### Monitor Softwar e
 
 > * [Is there a software that can monitor the power consumption of a computer? - Quora](https://www.quora.com/Is-there-a-software-that-can-monitor-the-power-consumption-of-a-computer)
 > * [How to Measure Your PC's Power Consumption - Make Tech Easier](https://www.maketecheasier.com/measure-pc-power-consumption/)
@@ -54,7 +57,9 @@ Note:
 * [Open Hardware Monitor - Core temp, fan speed and voltages in a free software gadget](https://openhardwaremonitor.org/)
   * [openhardwaremonitor/openhardwaremonitor: Open Hardware Monitor](https://github.com/openhardwaremonitor/openhardwaremonitor)
 * [GPU-Z Graphics Card GPU Information Utility](https://www.techpowerup.com/gpuz/)
-* (TODO) `hwinfo`
+* [HWiNFO - Free System Information, Monitoring and Diagnostics](https://www.hwinfo.com/) (HWInfo)
+
+> * [Request: GPU Memory Junction Temperature via nvidia-smi or NVML API - GPU Unix Graphics / Linux - NVIDIA Developer Forums](https://forums.developer.nvidia.com/t/request-gpu-memory-junction-temperature-via-nvidia-smi-or-nvml-api/168346)
 
 #### Power Meter
 
@@ -73,6 +78,12 @@ Note:
 > PCIe x1 (c16) ....
 
 #### Riser
+
+* [Powering GPU Mining Risers Safely - YouTube](https://www.youtube.com/watch?v=QwLtumnF5-8)
+
+* 6-pin PCIe (best)
+* big 4-pin (just okay)
+* SATA (better not)
 
 #### PCIe Knowledge
 

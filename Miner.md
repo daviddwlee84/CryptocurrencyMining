@@ -57,22 +57,27 @@ Algorithm
 
 ## Mine on PC
 
-| Miner                            | Support Dual Mining | Remark |
-| -------------------------------- | ------------------- | ------ |
-| lolMiner                         | Yes                 |        |
-| Claymore's Miner (EthDcrMiner64) | Yes                 |        |
-| PhoenixMiner                     | Yes                 |        |
-| T-Rex                            | Yes                 |        |
+| Miner                            | Support Dual Mining | ETH Dev Fee | Remark |
+| -------------------------------- | ------------------- | ----------- | ------ |
+| lolMiner                         | Yes                 | 0.7%        |        |
+| NBMiner                          | Yes                 | 1%          |        |
+| Claymore's Miner (EthDcrMiner64) | Yes                 |             |        |
+| PhoenixMiner                     | Yes                 |             |        |
+| T-Rex                            | Yes                 |             |        |
+
+TODO:
+
+* gminer
+* ...
 
 ### Cross-Platform
 
-* [NebuTech/NBMiner: NVIDIA & AMD GPU Miner for ETH, RVN, GRIN, BEAM, CFX, AE, SERO](https://github.com/NebuTech/NBMiner)
 * [ethereum-mining/ethminer: Ethereum miner with OpenCL, CUDA and stratum support](https://github.com/ethereum-mining/ethminer)
 * [luke-jr/bfgminer: Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities.](https://github.com/luke-jr/bfgminer)
 
 #### lolMiner
 
-* [Lolliedieb/lolMiner-releases](https://github.com/Lolliedieb/lolMiner-releases)
+[Lolliedieb/lolMiner-releases](https://github.com/Lolliedieb/lolMiner-releases)
 
 | Preset    | Coin                    | Algorithm             | Fee %   |
 | --------- | ----------------------- | --------------------- | ------- |
@@ -97,6 +102,22 @@ Algorithm
 | ZER       | Zero                    | Equihash 192/7        | 1.0     |
 
 Dual Mining: [**lolMiner-releases/dual_and_split_mining.md**](https://github.com/Lolliedieb/lolMiner-releases/blob/master/dual_and_split_mining.md)
+
+#### NBMiner
+
+[NebuTech/NBMiner: NVIDIA & AMD GPU Miner for ETH, RVN, GRIN, BEAM, CFX, AE, SERO](https://github.com/NebuTech/NBMiner)
+
+* Support Windows & Linux.
+* Support backup mining pool configuration.
+* Support SSL connection to mining pools.
+* Dev Fee:
+  * ethash etchash 1%
+  * cuckatoo & cuckatoo32 & cuckoo_ae 2%
+  * progpow_sero 2%
+  * kawpow 2%
+  * beamv3 2%
+  * octopus 3%
+  * ergo 2%
 
 #### Claymore's Dual Ethereum+Decred AMD+NVIDIA GPU Miner (EthDcrMiner64)
 

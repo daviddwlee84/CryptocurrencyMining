@@ -51,12 +51,17 @@ Hacking
 
 ## TODO
 
-* [ ] Undervolting and Overclocking => Enlarge GTX 1080 mining speed
+* [X] Undervolting and Overclocking => Enlarge GTX 1080 mining speed
   * [X] Windows
-  * [ ] Linux
-* [ ] Mining Fee
+  * [X] Linux
 * [ ] Dual Mining
 * [ ] Find target to mine on laptop or machine with low GPU RAM
+  * [ ] Try Ravencoin (RVN)
+* [ ] Move Mining Pool notes to where it belongs (i.e. ETH)
+
+Low priority
+
+* [ ] Bypass Mining Fee of Miner
 * [ ] Test if ETHlargementPill can be activated remotely
 
 ## Resources
@@ -91,3 +96,11 @@ choco install git vim
 * [How to Run Two or More Terminal Commands at Once in Linux](https://www.howtogeek.com/269509/how-to-run-two-or-more-terminal-commands-at-once-in-linux/)
 * [bash - Which one is better: using ; or && to execute multiple commands in one line? - Ask Ubuntu](https://askubuntu.com/questions/334994/which-one-is-better-using-or-to-execute-multiple-commands-in-one-line)
 * [Execute multiple commands with 1 line in Windows commandline? - Super User](https://superuser.com/questions/62850/execute-multiple-commands-with-1-line-in-windows-commandline)
+
+To allow execute script
+
+* [windows server 2008 r2 - PowerShell says "execution of scripts is disabled on this system." - Stack Overflow](https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system)
+
+```powershell
+Set-ExecutionPolicy RemoteSigned
+```
