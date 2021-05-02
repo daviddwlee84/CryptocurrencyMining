@@ -5,6 +5,8 @@
 * [Definitive Guide: How To Mine Monero? [Updated] - Crypto Mining Blog](https://2miners.com/blog/definitive-guide-how-to-mine-monero/)
 * [How to mine with CPU and setup a second custom pool in Hive OS - YouTube](https://www.youtube.com/watch?v=jrfKTFsv4BQ)
 * [How To Mine Monero (CPU & GPU) - YouTube](https://www.youtube.com/watch?v=Jfv7i1SyQbM)
+* [Dual Mining: CPU and GPU : MoneroMining](https://www.reddit.com/r/MoneroMining/comments/ibke6y/dual_mining_cpu_and_gpu/)
+  * Don't mine on GPU
 
 ## Mining Pool
 
